@@ -27,3 +27,7 @@ Desenvolver um sistema de monitoramento para uma cápsula espacial utilizando Ar
 ## Simulação
 
 Projeto desenvolvido e testado na plataforma Wokwi.
+
+## Link da Simulação
+
+https://wokwi.com/projects/466390956753897473
